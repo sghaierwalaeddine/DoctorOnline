@@ -2,7 +2,7 @@
 In 2022, I developed a Java application designed to help healthcare providers manage their appointments, improve their customer experience, and provide instant communication with their patients. The application features a user-friendly interface for both doctors and patients, allowing patients to schedule appointments online and communicate with their healthcare providers using an instant chat feature. Doctors can easily manage their appointments, view patient information, and send reminders for upcoming appointments. This application provides a secure and efficient way for healthcare providers to manage their appointments and communicate with their patients, improving the overall quality of healthcare services provided.
 
 # Features
-## Appointment scheduling: Patients can schedule appointments online and view their upcoming appointments.
+### Appointment scheduling: Patients can schedule appointments online and view their upcoming appointments.
 Instant chat: Patients can communicate with their healthcare providers using the built-in instant chat feature.
 Appointment management: Doctors can efficiently manage their appointments, view patient information, and send reminders for upcoming appointments.
 User-friendly interface: The application features a user-friendly interface for both doctors and patients, making it easy to use for everyone.
