@@ -14,8 +14,8 @@ In 2022, I developed a Java Desktop application designed to help healthcare prov
 >The application provides a secure and efficient way for healthcare providers to manage their appointments and communicate with their patients, ensuring that patient information is kept safe.
 
 # Technologies Used
-Java,
-MySQL,
+Java <br />
+MySQL <br />
 CSS
 
 # Installation
