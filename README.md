@@ -16,7 +16,7 @@ In 2022, I developed a Java Desktop application designed to help healthcare prov
 # Technologies Used
 Java <br />
 MySQL <br />
-XML <br />
+FXML <br />
 CSS
 
 # Installation
