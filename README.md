@@ -20,7 +20,7 @@ FXML <br />
 CSS
 
 # Installation
-To install the Appointment Management System, simply download the source code and run it using an integrated development environment (IDE) such as Eclipse or IntelliJ IDEA. Before running the application, make sure that you have installed all the necessary dependencies, including MySQL and the required Java libraries.
+To install this application, simply download the source code and run it using an integrated development environment (IDE) such as Eclipse or IntelliJ IDEA. Before running the application, make sure that you have installed all the necessary dependencies, including MySQL and the required Java libraries.
 
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
