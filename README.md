@@ -21,8 +21,19 @@ MySQL <br />
 FXML <br />
 CSS
 
-# Installation
-To install this application, simply download the source code and run it using an integrated development environment (IDE) such as Eclipse or IntelliJ IDEA. Before running the application, make sure that you have installed all the necessary dependencies, including MySQL and the required Java libraries.
+
+# Interfaces
+<h5> Sign Up </h5>
+<img src="https://github.com/sghaierwalaeddine/DoctorOnline/blob/43c3ed86333b09fe56a5ec50539d3f81d4a46f82/SignUP.PNG" alt="signup" />
+
+<h5> Login </h5>
+<img src="https://github.com/sghaierwalaeddine/DoctorOnline/blob/43c3ed86333b09fe56a5ec50539d3f81d4a46f82/login.png" alt="login" />
+
+<h5> Appointment management  </h5>
+<img src="https://github.com/sghaierwalaeddine/DoctorOnline/blob/43c3ed86333b09fe56a5ec50539d3f81d4a46f82/DoctorInterface.png" alt="Doctor Manag" />
+
+<h5> Real Time chat  </h5>
+<img src="https://github.com/sghaierwalaeddine/DoctorOnline/blob/43c3ed86333b09fe56a5ec50539d3f81d4a46f82/RealTimeChat.png" alt="chat" />
 
 # License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the LICENSE.md -in main branch- file for details.
