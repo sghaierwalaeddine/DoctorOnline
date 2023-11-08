@@ -21,9 +21,9 @@ public class Medecinc {
 
     @FXML
     void handle(ActionEvent event) throws IOException {
-    	if(event.getSource()==b) {//mot de passe 123 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+    	if(event.getSource()==b) {
     		if(pw.getText().equals("123")) {
-    			System.out.println("médecin connecté");
+    			System.out.println("mÃ©decin connectÃ©");
     			deuxInterMed d=new deuxInterMed();
     		    Node  source = (Node)  event.getSource(); 
     		    Stage stage  = (Stage) source.getScene().getWindow();
@@ -32,7 +32,7 @@ public class Medecinc {
     		}
     		else {
 				Alert alert = new Alert(AlertType.ERROR);
-				alert.setTitle("Verification de données saisie");
+				alert.setTitle("Verification de donnÃ©es saisie");
 				alert.setContentText("Mot de passe incorrecte!");
 				alert.showAndWait();
     			}
